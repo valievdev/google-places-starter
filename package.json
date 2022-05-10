@@ -1,0 +1,18 @@
+{
+  "name": "test-address",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "watch": "tsc --watch",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.7"
+  },
+  "dependencies": {
+    "google-maps": "^4.3.3",
+    "typescript": "^4.6.4"
+  }
+}
